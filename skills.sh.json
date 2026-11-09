@@ -1,0 +1,61 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Start here",
+      "description": "Sign up and run your first task on a Leverage computer.",
+      "skills": [
+        "leverage-cloud-agents"
+      ]
+    },
+    {
+      "title": "Cloud and always-on",
+      "description": "Agents that run off your laptop: in the background, overnight, in parallel.",
+      "skills": [
+        "background-agents",
+        "overnight-agents",
+        "parallel-cloud-agents",
+        "remote-devbox",
+        "agent-handoff",
+        "scheduled-agents"
+      ]
+    },
+    {
+      "title": "Governance",
+      "description": "Let agents work freely, and keep the real world behind approvals.",
+      "skills": [
+        "safe-yolo-mode",
+        "agent-approvals",
+        "agent-governance",
+        "agent-audit-log",
+        "agent-secrets"
+      ]
+    },
+    {
+      "title": "Team",
+      "description": "Shared sessions, memory, instructions, skills and one inbox.",
+      "skills": [
+        "share-agent-session",
+        "team-agent-memory",
+        "shared-agents-md",
+        "team-agent-skills",
+        "agent-inbox"
+      ]
+    },
+    {
+      "title": "Output",
+      "description": "Pages and dashboards your agents build.",
+      "skills": [
+        "agent-dashboards"
+      ]
+    },
+    {
+      "title": "Daily use",
+      "description": "Drive your workspace from your coding agent.",
+      "skills": [
+        "leverage-computer"
+      ]
+    }
+  ]
+}
